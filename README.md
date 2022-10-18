@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://github.com/LxaNce-Hacker"><img title="MADE IN INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-pink"></a>
 </p>
-### Installation
+## Installation
 
 ```
 $ git clone git://github.com/LxaNce-Hacker/Email_Spammer
